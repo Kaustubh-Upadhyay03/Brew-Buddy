@@ -103,5 +103,3 @@ A simple GUI application to implement Coffee ordering, developed using Java and 
 ![Manage Orders](https://github.com/nehalchakravarthy/coffee-ordering-app/blob/master/src/coffee/ordering/app/screenshots/Manage%20orders.png)
 
 > Manage Orders Screen
-
-##### Developed by Nehal Chakravarthy (@nehalchakravarthy)
